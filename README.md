@@ -1,5 +1,5 @@
 # Servlet-Mail-Server
-Netbeans project for implemenattion of a mail server using Java Servelet and MySQL database.
+Netbeans project that implemenats a mail server using Java Servelet and MySQL database.
 
 Utilities:
 1. Can send mails, stores mails in a datatbase which clients reads.
